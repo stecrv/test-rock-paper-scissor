@@ -8,6 +8,8 @@ This a rock-paper-scissors game
 
 ## How to install and run
 1. Download/clone the code
+1. open terminal
+1. Build code with running `webpack` on your terminal
 1. move to `public` folder
 1. run a local webserver, like `python -m SimpleHTTPServer`
 1. from the browser, go to 'localhost:8000'
